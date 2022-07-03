@@ -3,4 +3,4 @@ Trabalho final da disciplina de soluções computacionais. Um programa desktop d
 
 ![simplescreenrecorder-2022-07-03_16 23 52](https://user-images.githubusercontent.com/97320295/177055181-00fc9feb-a1fa-4c63-a060-87ee2085768b.gif)
 
-Todo o processo de planejamento de software documentamos com boas praticas de UML segue link do Trello:
+
